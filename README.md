@@ -13,6 +13,8 @@ Enhance the frontend using Git branching.
 4. Commit and push changes
 5. Submit a Pull Request
 
+For more info check MAIN-TASK.md
+
 ## Suggested Improvements
 
 - UI/UX enhancements
@@ -22,4 +24,5 @@ Enhance the frontend using Git branching.
 
 ## Submission
 
-Include screenshots and description in your PR.
+Include screenshots and description in your Pull Request (PR).
+
