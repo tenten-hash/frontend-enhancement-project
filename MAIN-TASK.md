@@ -22,14 +22,14 @@ Resolve merge conflicts (basic level)
 
 #### Step 1: Clone the Repository
 
-git clone <repo-url>
-cd <repo-name>
+git clone 'repo-url'
+cd 'repo-name'
 
 #### Step 2: Create a New Branch
 
 Each student must create their own branch using this format:
 
-git checkout -b feature/<lastname>-frontend-enhancement
+git checkout -b feature/'lastname'-frontend-enhancement
 
 Example:
 
@@ -68,7 +68,7 @@ git commit -m "feat: improved navbar responsiveness"
 
 #### Step 5: Push Branch
 
-git push origin feature/<branch-name>
+git push origin feature/'branch-name'
 
 #### Step 6: Create Pull Request
 
